@@ -1,3 +1,3 @@
 # one
 Practice 
-author tanish
+author tanish goyal
